@@ -11,6 +11,9 @@
     <string name="hint_confirm_password">Confirmar Contraseña</string>
     <string name="text_button_createaccount">Unete</string>
 
+
+    <string name="login_error">"Something happen:"</string>
+
     <string name="toolbar_title_createaccount">Create Account</string>
     <string name="firstword_card">Hace</string>
     <string name="timecard_card">4 dias</string>
