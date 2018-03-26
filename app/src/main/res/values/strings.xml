@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Imagram</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Ingresar</string>
+    <string name="dont_have_account">¿No tienes cuenta?</string>
+    <string name="create_here">Crea una aqui.</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confirm_password">Confirmar Contraseña</string>
+    <string name="text_button_createaccount">Únete</string>
+    <string name="toolbar_title_createaccount">Crear Cuenta</string>
+    <string name="username_card">Esdras Pavon</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card">4 dias</string>
+    <string name="likenumberdcard_card">10 me gusta</string>
+
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Inicio</string>
+    <string name="tab_profile">Yo</string>
+    tab_search
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="secondword_detail">me gusta</string>
+    <string name="titleimagedetail">\"Copas en la playa\"</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vestibulum ut nisl sed pretium. Maecenas non odio id elit pulvinar sollicitudin vel sed erat. Suspendisse potenti. Etiam vitae lectus nulla. Donec vehicula eleifend diam, sed mollis metus fringilla a. Phasellus sed convallis eros. Curabitur nisi augue, scelerisque eu luctus ut, rutrum at risus. Sed et enim arcu. Sed vehicula euismod dolor.  Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse potenti. Nunc sodales euismod ligula id congue. Morbi tincidunt, mauris at fringilla sagittis, velit lacus faucibus augue, nec rhoncus nunc nisi at turpis. Morbi sit amet enim et arcu iaculis rutrum at quis magna. Sed nulla turpis, suscipit varius ultrices a, ullamcorper ac nisi. Quisque ullamcorper diam vitae justo suscipit, sit amet egestas justo porttitor. Sed vel est eros. Praesent vestibulum ante non elit ultricies tincidunt. Vestibulum est felis, condimentum eu lobortis eget, gravida sit amet augue.  Quisque volutpat purus vel pulvinar pulvinar. Mauris sed mollis ante. Praesent convallis elementum sollicitudin. Curabitur dictum pulvinar diam, eget vulputate mi molestie et. Donec felis odio, scelerisque ut blandit quis, placerat at ex. Mauris convallis feugiat libero sed consequat. Proin vitae ullamcorper est, at fringilla libero. Pellentesque sit amet eros facilisis, tempus augue id, mattis tellus. Donec non iaculis quam. Donec sed accumsan urna. Sed ipsum nulla, commodo efficitur lacinia non, ultricies eget leo. Phasellus cursus id libero in facilisis. Morbi vitae lectus tempus, maximus turpis a, bibendum magna. Fusce ex justo, aliquam id mattis vitae, vestibulum eu massa. Sed sit amet augue rutrum, pellentesque ligula quis, vulputate neque. Donec tristique feugiat lobortis.</string>
+    <string name="transitionname_picture">transitionnamepicture</string>
+    <string name="searchhinttext">Buscar</string>
+</resources>
