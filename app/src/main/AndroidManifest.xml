@@ -19,10 +19,6 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".view.ReferenciaActivity"
-            android:label="@string/title_activity_referencia"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
             android:name=".view.CreateAccountActivity"
             android:parentActivityName=".LoginActivity">
 
